@@ -1,0 +1,10 @@
+a=10 #int
+b=3.14 #float
+c="hello" #string
+d='hi' #string
+e="1234" #string
+f= True #boolean
+g=False #boolean
+h= None #Nonetype
+i="" #string- blank
+j="  " #string-empty space
