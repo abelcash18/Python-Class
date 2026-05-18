@@ -8,4 +8,6 @@ print(f"My name is {name}, i am {age} years old, and student status is {is_stude
 
 
 print(f"30 + 4 = {30+ 4}")
+print(f"30 * 4 = {30* 4}")
+
 print(f"{{This is Python class}}")

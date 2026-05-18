@@ -1,6 +1,6 @@
 first_name = "Joseph"
 last_name = "Abel"
-last_name = first_name + "- " + last_name
+last_name = first_name + "-" + last_name
 print(last_name)
 
 

@@ -1,0 +1,6 @@
+price = 34.88878
+print(round(price))
+
+import math
+print(math.floor(price))
+print(math.ceil(price))

@@ -1,5 +1,5 @@
-print("ha" * 999999999)
-print("=" * 9000)
+print("ha" * 9)
+print("=" * 9)
 
 
-print("+" * 100000)
+print("+" * 1 )
